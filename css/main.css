@@ -1,0 +1,137 @@
+p{
+font-family: 'poppins', sans-serif;
+line-height: 2;
+
+}
+
+ol{
+	font-family: 'poppins', sans-serif;
+}
+
+li{
+	font-family: 'poppins', sans-serif;
+}
+
+body{
+	background-color: #99ccff;
+}
+
+h1{
+	font-family: 'Futura', sans-serif;
+}
+
+h2{
+	font-family: 'Futura', sans-serif;
+
+}
+
+h3{
+	font-family: 'Futura', sans-serif;
+
+}
+
+.orbit-container .orbit-slide-number{
+	color: #99ccff;
+}
+
+.orbit-container .orbit-slide-number span{
+	color: #99ccff;
+}
+
+.top-bar{
+	background-color: black;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button){
+	background-color: black;
+}
+
+.top-bar-section ul li a{
+	font-family: 'Futura', sans-serif;
+	color: #99ccff;
+}
+
+.top-bar .name h1 a{
+	color: #99ccff;
+}
+
+table{
+	width: 100%;
+}
+
+p.lead{
+	font-family: 'poppins', sans-serif;
+}
+
+
+
+.top-bar .name img{
+	height: 40px;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-top: .2em;
+}
+
+.orbit-container{
+	padding-top: 4em;
+	padding-bottom: 2em;
+}
+
+.orbit-container .orbit-slides-container > * .orbit-caption{
+	background-color: transparent;
+	font-size: 20px;
+	text-shadow: 1px 1px #000;
+	font-family: 'poppins', sans-serif;
+	text-align: right;
+}
+
+#How1{
+	padding-bottom: 3em;
+}
+
+#How1 p{
+	line-height: 1.7;
+}
+
+
+
+#How1 img{
+	height: 100%;
+	width: 100%;
+	padding: .5em;
+}
+
+#About{
+	padding-bottom: 2em;
+}
+
+#How2{
+	background-color:#99ccff;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+table thead tr th, table thead tr td{
+font-family: 'poppins', sans-serif;
+}
+
+button, .button{
+	font-family: 'Futura', sans-serif;
+}
+
+#contact{
+	background-color: #5588ff;
+	padding-bottom: 3em;
+	padding-top: 2em;
+	font-size: 20px;
+}
+
+body{
+	font-family: 'poppins', sans-serif;
+}
+
+.fa{
+	font-size: 40px !important;
+	padding: .15em !important;
+}
+
